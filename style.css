@@ -1,0 +1,15 @@
+body {
+    box-sizing: border-box;
+    font-family: Roboto, sans-serif;
+    
+    background-color: #333333;
+    color: #ffffff;
+    font-size: 120%;
+}
+
+main {
+    padding-top: 60px;
+    width: 900px;
+    margin: auto;
+}
+
