@@ -1,13 +1,26 @@
 body {
     box-sizing: border-box;
     
-
     font-family: Roboto, sans-serif;
     background-color: #333333;
     color: #ffffff;
-    font-size: 120%;
+    font-size: 120%;    
+}
 
-    
+a           { text-decoration: none; }
+a:link      { color: #7fd7ff; }
+a:visited   { color: #ffafff; }
+
+nav {
+    display: inline;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav li {
+    display: inline; 
 }
 
 main {
@@ -31,3 +44,4 @@ main {
     grid-column-start: 3;
     grid-column-end: 4;
 }
+
