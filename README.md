@@ -1,1 +1,1 @@
-This project contains my pilot website which I intend to publish at some point. What it winds up becoming, your guess is as good as mine at this point!
+This repo contains my pilot website - if I start habitually posting I'll publish it. Content first though
